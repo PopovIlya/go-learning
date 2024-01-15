@@ -1,5 +1,7 @@
 package memcache
 
+//автор пакета: https://habr.com/ru/articles/359078/
+
 import (
 	"errors"
 	"sync"
